@@ -1,0 +1,11 @@
+.home{
+    background-image: url(coffeebean.jpg);
+    border:2px double black;
+    width: 550px;
+    height: 550px;
+    padding: 15px 25px;
+    color:rgb(16, 17, 15);
+    margin: auto;
+    margin-top: 20px;
+    justify-content: center;
+}
